@@ -91,7 +91,7 @@ class Program
         }
         else
         {
-            return false; // Will be logged in ReadGradesFromFile
+            return false;
         }
 
         grade = 0;
